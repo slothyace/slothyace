@@ -1,11 +1,11 @@
-# slothyace
-> Professional lazy bastard.
+# Professional lazy bastard.
+I code for fun...
 
-Currently working on:
+## Projects:
 - [BCS](https://github.com/slothyace/BCS) - Sample Commands for [BMD](https://store.steampowered.com/app/2592170/Bot_Maker_For_Discord/)
 - [bmods](https://github.com/RatWasHere/bmods) - Modded Actions for [BMD](https://store.steampowered.com/app/2592170/Bot_Maker_For_Discord/)
 
-Languages:
+## Languages:
 - Javascript
 - Python
 - Batch
