@@ -4,12 +4,13 @@ I code for fun...
 ## Projects:
 - [BCS](https://github.com/slothyace/BCS) - Sample Commands for [BMD](https://store.steampowered.com/app/2592170/Bot_Maker_For_Discord/)
 - [bmods](https://github.com/RatWasHere/bmods) - Modded Actions for [BMD](https://store.steampowered.com/app/2592170/Bot_Maker_For_Discord/)
+- [pyScriptify](https://github.com/slothyace/pyScriptify) - Office task automations
 
 ## Languages:
 - Javascript
 - Python
 - Batch
-- C++
+- Arduino
 
 <!--
 **slothyace/slothyace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
