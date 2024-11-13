@@ -3,7 +3,7 @@ I code for fun...
 
 ## Projects:
 - [BCS](https://github.com/slothyace/BCS) - Sample Commands for [BMD](https://store.steampowered.com/app/2592170/Bot_Maker_For_Discord/)
-- [bmods](https://github.com/RatWasHere/bmods) - Modded Actions for [BMD](https://store.steampowered.com/app/2592170/Bot_Maker_For_Discord/)
+- [BCX](https://github.com/slothyace/BCX) - Modded Actions and Assets for [BMD](https://store.steampowered.com/app/2592170/Bot_Maker_For_Discord/)
 - [pyScriptify](https://github.com/slothyace/pyScriptify) - Office task automations
 
 ## Languages:
