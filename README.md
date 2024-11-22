@@ -7,6 +7,7 @@ I code for fun...
 - [pyScriptify](https://github.com/slothyace/pyScriptify) - Office task automations
 
 ## Languages:
-- <img src="https://github.com/slothyace/slothyace/blob/main/icons/js.svg" width=16 height=16> Javascript
-- <img src="https://github.com/slothyace/slothyace/blob/main/icons/python.svg" width=16 height=16> Python
-- <img src="https://github.com/slothyace/slothyace/blob/main/icons/arduino.svg" width=16 height=16> Arduino
+<img src="https://github.com/slothyace/slothyace/blob/main/icons/js.svg" width=32 height=32> <img src="https://github.com/slothyace/slothyace/blob/main/icons/python.svg" width=32 height=32> <img src="https://github.com/slothyace/slothyace/blob/main/icons/arduino.svg" width=32 height=32>
+
+## Platforms:
+<img src="https://github.com/slothyace/slothyace/blob/main/icons/discord.svg" width=32 height=32><img src="https://github.com/slothyace/slothyace/blob/main/icons/nodejs.svg" width=32 height=32><img src="https://github.com/slothyace/slothyace/blob/main/icons/windows.svg" width=32 height=32>
