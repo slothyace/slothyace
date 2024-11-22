@@ -7,10 +7,10 @@ I code for fun...
 - [pyScriptify](https://github.com/slothyace/pyScriptify) - Office task automations
 
 ## Languages:
-- Javascript
-- Python
-- Batch
-- Arduino
+<h3 align="center">My favs</h3>
+<div align="center">
+[![My Skills](https://skillicons.dev/icons?i=discord,js,nodejs,arduino,vscode&theme=dark)](https://github.com/slothyace)
+<h3 align="center">Most skilled</h3>
 
 <!--
 **slothyace/slothyace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
