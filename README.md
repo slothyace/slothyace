@@ -9,6 +9,7 @@ I code for fun...
 ## Languages:
 <h3 align="center">My favs</h3>
 <div align="center">
+  
 [![My Skills](https://skillicons.dev/icons?i=discord,js,nodejs,arduino,vscode&theme=dark)](https://github.com/slothyace)
 <h3 align="center">Most skilled</h3>
 
