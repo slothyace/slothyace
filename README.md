@@ -7,9 +7,6 @@ I code for fun...
 - [pyScriptify](https://github.com/slothyace/pyScriptify) - Office task automations
 
 ## Languages:
-<h3 align="center">My favs</h3>
-<div align="center">
-  
 [![My Skills](https://skillicons.dev/icons?i=discord,js,nodejs,arduino,vscode&theme=dark)](https://github.com/slothyace)
 
 <!--
