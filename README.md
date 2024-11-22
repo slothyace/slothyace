@@ -7,3 +7,4 @@ I code for fun...
 - [pyScriptify](https://github.com/slothyace/pyScriptify) - Office task automations
 
 ## Languages:
+![JavaScript](https://github.com/slothyace/slothyace/blob/main/icons/JavaScript.svg)
