@@ -10,4 +10,4 @@ I code for fun...
 <img src="https://github.com/slothyace/slothyace/blob/main/icons/js.svg" width=32 height=32> <img src="https://github.com/slothyace/slothyace/blob/main/icons/python.svg" width=32 height=32> <img src="https://github.com/slothyace/slothyace/blob/main/icons/arduino.svg" width=32 height=32>
 
 ## Platforms:
-<img src="https://github.com/slothyace/slothyace/blob/main/icons/discord.svg" width=32 height=32><img src="https://github.com/slothyace/slothyace/blob/main/icons/nodejs.svg" width=32 height=32><img src="https://github.com/slothyace/slothyace/blob/main/icons/windows.svg" width=32 height=32>
+<img src="https://github.com/slothyace/slothyace/blob/main/icons/discord.svg" width=32 height=32> <img src="https://github.com/slothyace/slothyace/blob/main/icons/nodejs.svg" width=32 height=32> <img src="https://github.com/slothyace/slothyace/blob/main/icons/windows.svg" width=32 height=32>
