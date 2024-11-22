@@ -11,3 +11,7 @@ I code for fun...
 
 ## Platforms:
 <img src="https://github.com/slothyace/slothyace/blob/main/icons/discord.svg" width=32 height=32> <img src="https://github.com/slothyace/slothyace/blob/main/icons/nodejs.svg" width=32 height=32> <img src="https://github.com/slothyace/slothyace/blob/main/icons/windows.svg" width=32 height=32>
+
+## Support Me:
+<a href="https://ko-fi.com/slothyacedia"><img src="https://github.com/slothyace/slothyace/blob/main/icons/kofi.png" width=240 height=48>
+</a>
